@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `![Data-Visualization of Wine dataset](https://user-images.githubusercontent.com/60229726/230762004-d84195be-d687-4384-89aa-8db8f944870a.JPG)`
+
 ### Watch Demo Here
 https://data-visualization-99f67.web.app/
 
